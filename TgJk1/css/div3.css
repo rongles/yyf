@@ -1,0 +1,15 @@
+#div3{
+	height:160px;
+	display:flex;
+	flex-wrap:wrap;
+	background-image:url(../img/tupian/15514241183527.jpg);
+	background-size:100%;
+	margin-top:0px;
+	align-items:center;
+	justify-content:space-between;
+}
+
+#div3>img{
+	width:20%;
+}
+

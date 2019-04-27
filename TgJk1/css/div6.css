@@ -1,0 +1,16 @@
+#div6{
+	height:220px;
+	display:flex;
+	flex-wrap:wrap;
+	background-image:url(../img/tupian/mst_aae0098fbbf7e246383b0ae77e489e88.jpg);
+	background-size:100%;
+	margin-top:0px;
+	align-items:center;
+	justify-content:space-between;
+}
+
+
+#div6>img{
+	width:30%;
+	margin-top: 40px;
+}
